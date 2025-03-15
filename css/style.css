@@ -300,7 +300,7 @@
 
 .nav-card-layout >div{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     text-align: center;
     overflow: auto;
     padding: 2px;
@@ -569,18 +569,20 @@
     margin-top: 20px;
     display: flex;
     box-sizing: border-box;
-    gap: 40px;
+    gap: 30px;
 }
 
 .become-plus-member img {
     height: 140px;
     margin: 0;
     margin-top: auto;
+    margin-left: 80px;
 }
 
 .become-plus-member > div:nth-child(1) {
     min-width: max-content;
     padding-top: 10px;
+    margin-left: 20px;
 }
 
 .become-plus-member > div:nth-child(1) > h2{
@@ -1203,7 +1205,7 @@
 }
 
 .footer-bottom img{
-    height: 20px;
+    height: 25px;
 }
 
 .footer-bottom>div p{
